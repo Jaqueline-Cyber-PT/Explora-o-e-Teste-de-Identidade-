@@ -1,0 +1,11 @@
+SMB                      192.168.1.150   445    PF-DC01          [*] Windows 11 / Server 2025 Build 26100 x64 (name:PF-DC01) (domain:pixelforge.internal) (signing:True) (SMBv1:False)
+SMB                      192.168.1.150   445    PF-DC01          [-] Connection Error: The NETBIOS connection with the remote host timed out.
+SMB                      192.168.1.150   445    PF-DC01          [-] Connection Error: The NETBIOS connection with the remote host timed out.
+SMB                      192.168.1.150   445    PF-DC01          [-] Connection Error: The NETBIOS connection with the remote host timed out.
+SMB                      192.168.1.150   445    PF-DC01          [-] Connection Error: The NETBIOS connection with the remote host timed out.
+SMB                      192.168.1.150   445    PF-DC01          [-] Connection Error: The NETBIOS connection with the remote host timed out.
+SMB                      192.168.1.150   445    PF-DC01          [-] Connection Error: The NETBIOS connection with the remote host timed out.
+SMB                      192.168.1.150   445    PF-DC01          [-] Connection Error: The NETBIOS connection with the remote host timed out.
+SMB                      192.168.1.150   445    PF-DC01          [-] Connection Error: The NETBIOS connection with the remote host timed out.
+SMB                      192.168.1.150   445    PF-DC01          [-] Connection Error: The NETBIOS connection with the remote host timed out.
+SMB                      192.168.1.150   445    PF-DC01          [-] Connection Error: The NETBIOS connection with the remote host timed out.

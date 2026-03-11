@@ -1,0 +1,10 @@
+  carlos.dev
+  sofia.code
+  miguel.art
+  ines.design
+  joana.pm
+  admin.it
+  NessusService
+  Administrator
+  Guest
+  krbtgt

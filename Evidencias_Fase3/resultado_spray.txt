@@ -1,0 +1,35 @@
+[*] First time use detected
+[*] Creating home directory structure
+[*] Creating missing folder logs
+[*] Creating missing folder modules
+[*] Creating missing folder protocols
+[*] Creating missing folder workspaces
+[*] Creating missing folder obfuscated_scripts
+[*] Creating missing folder screenshots
+[*] Creating missing folder logs/sam
+[*] Creating missing folder logs/lsa
+[*] Creating missing folder logs/ntds
+[*] Creating missing folder logs/dpapi
+[*] Creating default workspace
+[*] Initializing LDAP protocol database
+[*] Initializing WINRM protocol database
+[*] Initializing NFS protocol database
+[*] Initializing VNC protocol database
+[*] Initializing WMI protocol database
+[*] Initializing FTP protocol database
+[*] Initializing SMB protocol database
+[*] Initializing MSSQL protocol database
+[*] Initializing SSH protocol database
+[*] Initializing RDP protocol database
+[*] Copying default configuration file
+SMB                      192.168.1.150   445    PF-DC01          [*] Windows 11 / Server 2025 Build 26100 x64 (name:PF-DC01) (domain:pixelforge.internal) (signing:True) (SMBv1:False)
+SMB                      192.168.1.150   445    PF-DC01          [-] Connection Error: The NETBIOS connection with the remote host timed out.
+SMB                      192.168.1.150   445    PF-DC01          [-] Connection Error: The NETBIOS connection with the remote host timed out.
+SMB                      192.168.1.150   445    PF-DC01          [-] pixelforge.internal\miguel.art:PixelForge2026! STATUS_LOGON_FAILURE
+SMB                      192.168.1.150   445    PF-DC01          [-] Connection Error: The NETBIOS connection with the remote host timed out.
+SMB                      192.168.1.150   445    PF-DC01          [-] Connection Error: The NETBIOS connection with the remote host timed out.
+SMB                      192.168.1.150   445    PF-DC01          [-] Connection Error: The NETBIOS connection with the remote host timed out.
+SMB                      192.168.1.150   445    PF-DC01          [-] Connection Error: The NETBIOS connection with the remote host timed out.
+SMB                      192.168.1.150   445    PF-DC01          [-] Connection Error: The NETBIOS connection with the remote host timed out.
+SMB                      192.168.1.150   445    PF-DC01          [-] Connection Error: The NETBIOS connection with the remote host timed out.
+SMB                      192.168.1.150   445    PF-DC01          [-] Connection Error: The NETBIOS connection with the remote host timed out.
